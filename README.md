@@ -1,5 +1,7 @@
 # Data Visualization with Python
 
+[http://lucasdurand.xyz/visualization-seminar](http://lucasdurand.xyz/visualization-seminar)
+
 An introduction to tools and techniques for data visualization with 
 python. This contains materials for the Visualization workshop of 
 [AI Deep Dive](https://aideepdive.com/)
