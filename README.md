@@ -4,6 +4,10 @@ An introduction to tools and techniques for data visualization with
 python. This contains materials for the Visualization workshop of 
 [AI Deep Dive](https://aideepdive.com/)
 
+## First
+
+[Please get setup before the course](README-setup.md)
+
 ## Summary
 
 Data! It's everywhere -- and everyWHEN. 
