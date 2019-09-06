@@ -6,10 +6,13 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+dash = "*"
 jupyter = "*"
-pandas = "*"
+matplotlib = "*"
+rise = "*"
 plotly = "*"
-cufflinks = "*"
+seaborn = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
