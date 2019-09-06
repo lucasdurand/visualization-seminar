@@ -17,11 +17,12 @@ Data! It's everywhere -- and everyWHEN.
 Over the course of this workshop you will learn:
 
 * How to create stunning interactive visualizations in Python
-* 
+* How to share your findings with others
+* How to develop and publish full-fledged dashboards in *The Cloud*
 
 ## Content Outline
 
-* Jupyter Notebooks
+* Jupyter Notebooks [Part 0 - Jupyter Notebooks.ipynb](Part 0 - Jupyter Notebooks.ipynb)
 	* What are they?
 	* Why use them?
 * Visualization with Python: static plots
