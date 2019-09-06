@@ -22,7 +22,7 @@ Over the course of this workshop you will learn:
 
 ## Content Outline
 
-* Jupyter Notebooks [Notebook](Part%200%20-%20Jupyter%20Notebooks.ipynb")
+* Jupyter Notebooks
 	* What are they?
 	* Why use them?
 * Visualization with Python: static plots
