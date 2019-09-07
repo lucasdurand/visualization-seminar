@@ -24,25 +24,25 @@ Over the course of this workshop you will learn:
 
 ## Content Outline
 
-* Jupyter Notebooks
+1. Jupyter Notebooks
 	* What are they?
 	* Why use them?
-* Visualization with Python: static plots
+2. Visualization with Python: static plots
 	* what's a python? can I touch it?
 	* matplotlib
 	* pandas plot
 	* seaborn
-* Sharing Notebooks
+2. Sharing Notebooks
 	* HTML 
 	* binder [https://mybinder.org/](https://mybinder.org/)
-* Visualization with Python: interactive plots
+4. Visualization with Python: interactive plots
 	* plotly
 	* cufflinks
-* Dashboarding with Python
+5. Dashboarding with Python
 	* **But first --** Building a Website: The Basics
 		* HTML
 		* CSS
 		* JS
 	* Dash by Plotly
-* Dashboards in the Cloud
+6. Dashboards in the Cloud
 	* Deploy your dash app to heroku [https://www.heroku.com/](https://www.heroku.com/)
