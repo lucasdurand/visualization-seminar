@@ -4,7 +4,14 @@
 	- [Anaconda](https://www.anaconda.com/distribution/) is an easy way to do this, although somewhat bloated with packages
 	
 	- If you are short on space, consider installing [*Miniconda*](https://docs.conda.io/en/latest/miniconda.html) as we will be working in a virtualenv anyways
-2. Set up your environment.
+
+3. Have `git`, a version control tool (you should be able to run `git` in your terminal/cmd. If not, install it:
+
+	- Windows: https://git-scm.com/download/win
+	- Mac: https://git-scm.com/download/mac
+	- Linux: ... this should already be here
+
+2. Set up your Python environment.
 	
 	1. Clone this repo
 
@@ -16,16 +23,15 @@
 	2. Create a virtualenv and install our packages:
 
 	```
-	pip install pipenv
-	pipenv install
+	pip install pipenv # install pipenv if not already installed
+	pipenv install # this installs everything we need
 	```
 
-	3. Once everything is installed you can *activate* the environment with `pipenv shell`. Now you're inside and things should work as expected: try running `jupyter notebook` to launch a Jupyter instance and confirm everything is happy.
 
-3. Install `git`, a version control tool:
+3. Once everything is installed you can *activate* the environment with `pipenv shell`. 
+	
+	- Now you're inside and there's just one more step for the course exercises to go smoothly: We need to enable some additional Jupyter Notebook extensions with `jupyter contrib nbextension install --sys-prefix`:
+	
+	- Now things should work as expected: try running `jupyter notebook` to launch a Jupyter instance and confirm everything is happy.
 
-	- Windows: https://git-scm.com/download/win
-	- Mac: https://git-scm.com/download/mac
-	- Linux: ... this should already be here
-
-3. [Install the **Heroku CLI**](https://devcenter.heroku.com/articles/getting-started-with-python#set-up). Go ahead and create yourself a free account while you're at it. We are going to use this later to deploy an app to *the Cloud*. 
+4. [Install the **Heroku CLI**](https://devcenter.heroku.com/articles/getting-started-with-python#set-up). Go ahead and create yourself a free account while you're at it. We are going to use this later to deploy an app to *the Cloud*. 
