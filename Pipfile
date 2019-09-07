@@ -13,6 +13,7 @@ rise = "*"
 plotly = "*"
 seaborn = "*"
 gunicorn = "*"
+jupyter-contrib-nbextensions = "*"
 
 [requires]
 python_version = "3.7"
