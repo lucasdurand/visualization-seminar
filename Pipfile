@@ -14,6 +14,7 @@ plotly = "*"
 seaborn = "*"
 gunicorn = "*"
 jupyter-contrib-nbextensions = "*"
+chart-studio = "*"
 
 [requires]
 python_version = "3.7"
