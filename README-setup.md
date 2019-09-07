@@ -10,6 +10,8 @@
 	- Windows: https://git-scm.com/download/win
 	- Mac: https://git-scm.com/download/mac
 	- Linux: ... this should already be here
+	
+3. While you're at it, make sure you have a [github](https://github.com/) account as well, this will be useful later!
 
 2. Set up your Python environment.
 	
