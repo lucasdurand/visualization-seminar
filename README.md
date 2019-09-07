@@ -32,12 +32,12 @@ Over the course of this workshop you will learn:
 	* matplotlib
 	* pandas plot
 	* seaborn
-* Visualization with Python: interactive plots
-	* plotly
-	* cufflinks
 * Sharing Notebooks
 	* HTML 
 	* binder [https://mybinder.org/](https://mybinder.org/)
+* Visualization with Python: interactive plots
+	* plotly
+	* cufflinks
 * Dashboarding with Python
 	* **But first --** Building a Website: The Basics
 		* HTML
