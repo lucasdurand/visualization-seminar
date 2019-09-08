@@ -38,7 +38,7 @@ Over the course of this workshop you will learn:
 4. Visualization with Python: interactive plots
 	* plotly
 	* cufflinks
-        * plotly_express
+	* plotly_express
 5. Dashboarding with Python
 	* But first -- Building a Website: The Basics
 		* HTML
