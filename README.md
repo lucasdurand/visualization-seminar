@@ -4,7 +4,7 @@
 
 An introduction to tools and techniques for data visualization with 
 python. This contains materials for the Visualization workshop of 
-[AI Deep Dive](https://aideepdive.com/)
+[AI Deep Dive](https://aideepdive.com/).
 
 ## First
 
@@ -34,16 +34,18 @@ Over the course of this workshop you will learn:
 	* seaborn
 2. [Sharing Notebooks](Full/Part 3 - Sharing Notebooks/README.md)
 	* HTML 
-	* binder [https://mybinder.org/](https://mybinder.org/)
+	* nbviewer [http://nbviewer.jupyter.org/](http://nbviewer.jupyter.org/)
 4. [Visualization with Python: interactive plots](Full/Part 4 - Interactive Plots/README.md)
+	* ipywidgets
 	* plotly
-	* cufflinks
-	* plotly_express
+	* plotly express
 5. [Dashboarding with Python](Full/Part 5 - Dashboards/README.md)
 	* But first -- Building a Website: The Basics
 		* HTML
 		* CSS
 		* JS
+	* Voila
 	* Dash by Plotly
 6. [Dashboards in the Cloud](Full/Part 6 - Cloud Deployment/README.md)
+	* Deploy your Voila to binder [https://mybinder.org/](https://mybinder.org/)
 	* Deploy your dash app to heroku [https://www.heroku.com/](https://www.heroku.com/)
