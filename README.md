@@ -24,7 +24,7 @@ Over the course of this workshop you will learn:
 
 ## Content Outline
 
-1. [Jupyter Notebooks](Full/Part 1 - Jupyter Notebooks.ipynb)
+1. Jupyter Notebooks
 	* What are they?
 	* Why use them?
 2. [Visualization with Python: static plots](Full/Part 2 - Static Plots/README.md)
