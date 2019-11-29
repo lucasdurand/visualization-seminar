@@ -26,13 +26,11 @@
 
 	```
 	pip install pipenv # install pipenv if not already installed
-	pipenv install # this installs everything we need
+	pipenv install --skip-lock # this installs everything we need
 	```
 
 
 3. Once everything is installed you can *activate* the environment with `pipenv shell`. 
-	
-	- Now you're inside and there's just one more step for the course exercises to go smoothly: We need to enable some additional Jupyter Notebook extensions with `jupyter contrib nbextension install --sys-prefix`:
 	
 	- Now things should work as expected: try running `jupyter notebook` to launch a Jupyter instance and confirm everything is happy.
 
