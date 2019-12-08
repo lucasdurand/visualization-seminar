@@ -16,6 +16,7 @@ gunicorn = "*"
 jupyter-contrib-nbextensions = "*"
 chart-studio = "*"
 rundown = "*"
+voila = "*"
 
 [requires]
 python_version = "3.7"
