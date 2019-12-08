@@ -10,6 +10,9 @@ python. This contains materials for the Visualization workshop of
 
 [Please get setup before the course](README-setup.md)
 
+If you don't care to keep your work, you can use [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucasdurand/visualization-seminar/master)
+
+
 ## Summary
 
 Data! It's everywhere -- and everyWHEN. 
