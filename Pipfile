@@ -15,6 +15,7 @@ seaborn = "*"
 gunicorn = "*"
 jupyter-contrib-nbextensions = "*"
 chart-studio = "*"
+rundown = "*"
 
 [requires]
 python_version = "3.7"
