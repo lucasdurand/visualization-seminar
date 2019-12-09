@@ -21,7 +21,6 @@
 	git clone https://github.com/lucasdurand/visualization-seminar.git
 	cd visualization-seminar
 	```
-
 	2. Create a virtualenv and install our packages:
 
 	```
