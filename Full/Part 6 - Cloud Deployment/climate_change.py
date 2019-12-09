@@ -18,6 +18,7 @@ temperature_slice=yearly_change.merge(temperatures[["Country","Continent","Code"
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+from dash.dependencies import Output, Input, State
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -67,3 +68,4 @@ def draw_country_history(year):
     figure = single_year(year)
     return figure, year
 
+server = app.server
