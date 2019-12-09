@@ -15,7 +15,7 @@ If you don't care to keep your work, you can use [![Binder](https://mybinder.org
 
 ## Summary
 
-Data! It's everywhere -- and everyWHEN. 
+Data! It's everywhere -- and everyWHEN. Being able to understand and share complex data is a huge part of being a successful data scientist. Being able to navigate the full stack of a data science workflow is a big advantage. We're going to analyze some interesting datasets and build *real* applications.
 
 ## Covered
 
