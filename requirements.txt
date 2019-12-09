@@ -1,7 +1,0 @@
-# For use with Heroku deploy
-dash
-dash_core_components
-dash_html_components
-flask
-pandas
-gunicorn
