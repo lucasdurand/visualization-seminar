@@ -1,4 +1,5 @@
 import pandas as pd
+import plotly.express as px
 DATA_FOLDER = "../../data"
 temperatures = pd.read_csv(f"{DATA_FOLDER}/global_temperatures/GlobalLandTemperaturesByCountry.csv", parse_dates=['dt'])
 continents = pd.read_csv(f"{DATA_FOLDER}/continents.csv")
