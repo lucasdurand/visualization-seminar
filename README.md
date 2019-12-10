@@ -38,7 +38,7 @@ Over the course of this workshop you will learn:
 2. [Sharing Notebooks](Full/Part 3 - Sharing Notebooks/README.md)
 	* HTML 
 	* nbviewer [http://nbviewer.jupyter.org/](http://nbviewer.jupyter.org/)
-4. [Visualization with Python: interactive plots](Full/Part 4 - Interactive Plots/README.md)
+4. [Visualization with Python: interactive plots](Full/Part 4 - Interactive Visualizations/README.md)
 	* ipywidgets
 	* plotly
 	* plotly express
